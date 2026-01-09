@@ -1,3 +1,4 @@
+![images (1)](https://github.com/user-attachments/assets/15c6e006-3126-4d72-9654-c8fa40bbed39)
 # StudentAttendanceProject
 Student Attendance Management System
 <!DOCTYPE html>
